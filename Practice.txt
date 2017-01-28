@@ -1,3 +1,7 @@
 # Practice File
 
 I am trying to learn how to use Github desktop. 
+
+## Branching
+
+To create a branch, I just edit the files in the folder. Github desktop seems to notice the changes. 
